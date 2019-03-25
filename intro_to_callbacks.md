@@ -40,7 +40,7 @@ function double( number, callback ) {
     }
 
     // Then we return the `doubledNumber`.
-    return newNumber;
+    return doubledNumber;
 }
 
 function printDoubleMessage( number, doubledNumber ) {
